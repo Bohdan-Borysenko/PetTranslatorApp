@@ -48,7 +48,8 @@ PetTranslatorApp/
 ├── MainTabView.swift
 ```
 📸 Preview
-![Preview](![PetTranslatorApp_Preview](https://github.com/user-attachments/assets/d9e65d08-cf38-4f53-96a6-85462a8f5544))
+![PetTranslatorApp_Preview](https://github.com/user-attachments/assets/cc9b68db-fb15-4f1b-90c3-e5651825e667)
+
 
 ## 🧑‍💻 Author
 
